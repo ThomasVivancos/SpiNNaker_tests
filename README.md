@@ -3,7 +3,7 @@
 Deux dossier: un pour la parti interfaçage avec les caméras prophesee
               le deuxième pour le script de recherche d'hyperparamètres sur SpiNN-3 avec les données de DVS128 Gesture
                 
-- La partie sur l'interfaçage contient un exemple de code python pour utiliser les .dat et un autre pour utiliser les .raw qui se comporte comme une caméra en live
+- La partie sur l'interfaçage contient un exemple de code python pour utiliser les .dat et un autre pour poser les base pour l'utilisation des .raw qui se comporte comme une caméra en live.
 
 
 - La partie sur la classification se lance en éxécutant le fichier python run_Hillclimbing dans le dossier PythonFiles
